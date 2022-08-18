@@ -1,0 +1,16 @@
+h1 {
+    color: #c3c3c3;
+    background-color: #000000;
+}
+
+body {
+    background-color: aqua;
+}
+
+#text1 {
+    font-size: 24px;
+}
+
+.ourText {
+    text-decoration: underline;
+}
